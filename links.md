@@ -14,9 +14,9 @@ AtFAB: http://atfab.co/cnc-furniture/
 # other info
 http://www.futurearchi.org/t/5-open-source-furniture-projects/117
 
-Make Zine articles: 
-https://makezine.com/2014/03/18/open-source-furniture-2/
-https://makezine.com/2009/04/06/open-source-furniture/
-https://makezine.com/2017/04/04/opendesk-cnc-furniture/
-https://makezine.com/2016/04/18/made-baltimore-outfitting-your-makerspace-with-tools-and-furniture/
+Make Zine articles:<br>
+https://makezine.com/2014/03/18/open-source-furniture-2/ <br>
+https://makezine.com/2009/04/06/open-source-furniture/ <br>
+https://makezine.com/2017/04/04/opendesk-cnc-furniture/ <br>
+https://makezine.com/2016/04/18/made-baltimore-outfitting-your-makerspace-with-tools-and-furniture/ <br>
 
